@@ -1,0 +1,57 @@
+.home h1{
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.psmart{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 5px solid #777;
+    align-items: center;
+    
+}
+
+.psmart h2,
+.psmart p {
+    margin-bottom: 1rem;
+}
+
+.btn{
+    background-color: #fff;
+    color: #0e1217;
+    border: 1px solid #fff;
+    opacity: 1;
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
+    max-width: 100px;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.imgs{
+    height: 190px;
+    width: 190px;
+}
+
+.btn:hover{
+    color: #fff;
+    background-color: #0e1217;
+}
+
+.divbtn{
+    display: flex;
+    gap: 1rem;    
+}
+
+
+  .btnedit{
+    color: #000000;
+  }
+
+  .btnedit:hover{
+    color: #FFF;
+  }
