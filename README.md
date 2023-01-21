@@ -24,8 +24,16 @@
         </p>
     </div>
     <p>O botão "Novo Produto" leva a uma rota de formulário para inclusão de dados no servidor</p>
-    <div>imagem</div>
+    <div>
+        <p align="center">
+  <img src="./src/images/newproduct.png" width="650" title="hover text">
+        </p>
+    </div>
     <p>Ao clicar na rota referente a uma categoria de produtos são exibidas informações e os botões que executam as funções Editar e Excluir produtos.</p>
-    <div>imagem</div>
+    <div>
+        <p align="center">
+  <img src="./src/images/notebooks.png" width="650" title="hover text">
+        </p>
+    </div>
     <br><br><br> 
 </div>
