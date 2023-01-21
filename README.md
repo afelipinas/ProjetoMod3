@@ -20,7 +20,7 @@
     <p>Com essas informações foram criadas as rotas que trazem produtos de informática: Smartphones, Notebooks e Periféricos.</p>
     <div>
         <p align="center">
-  <img src="./src/images/homepage.png" width="350" title="hover text">
+  <img src="./src/images/homepage.png" width="650" title="hover text">
         </p>
     </div>
     <p>O botão "Novo Produto" leva a uma rota de formulário para inclusão de dados no servidor</p>
