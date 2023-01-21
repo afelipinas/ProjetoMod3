@@ -18,7 +18,11 @@
     <br><br>
     <div>
     <p>Com essas informações foram criadas as rotas que trazem produtos de informática: Smartphones, Notebooks e Periféricos.</p>
-    <div>![alt text]("https://github.com/afelipinas/ProjetoMod3/blob/main/src/images/homepage.png")</div>
+    <div>
+        <p align="center">
+  <img src="./src/images/homepage.png" width="350" title="hover text">
+        </p>
+    </div>
     <p>O botão "Novo Produto" leva a uma rota de formulário para inclusão de dados no servidor</p>
     <div>imagem</div>
     <p>Ao clicar na rota referente a uma categoria de produtos são exibidas informações e os botões que executam as funções Editar e Excluir produtos.</p>
