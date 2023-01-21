@@ -20,19 +20,19 @@
     <p>Com essas informações foram criadas as rotas que trazem produtos de informática: Smartphones, Notebooks e Periféricos.</p>
     <div>
         <p align="center">
-  <img src="./src/images/homepage.png" width="650" title="hover text">
+  <img src="./src/images/homepage.png" width="850" title="hover text">
         </p>
     </div>
     <p>O botão "Novo Produto" leva a uma rota de formulário para inclusão de dados no servidor</p>
     <div>
         <p align="center">
-  <img src="./src/images/newproduct.png" width="650" title="hover text">
+  <img src="./src/images/newproduct.png" width="850" title="hover text">
         </p>
     </div>
     <p>Ao clicar na rota referente a uma categoria de produtos são exibidas informações e os botões que executam as funções Editar e Excluir produtos.</p>
     <div>
         <p align="center">
-  <img src="./src/images/notebooks.png" width="650" title="hover text">
+  <img src="./src/images/notebooks.png" width="850" title="hover text">
         </p>
     </div>
     <br><br><br> 
