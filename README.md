@@ -1,28 +1,27 @@
 <br>
 <h1> Projeto em grupo do modulo 3</h1>
 <br><br>
-<h2>Objetivo: Criar um site utilizando o json.server </h2>
+<h2>Objetivo: Criar um site utilizando o Json-server criado no projeto individual do módulo. </h2>
 <br><br>
-<div>Neste projeto, criamos um sites utilizando os métodos HTTP: get,post, put e delete, suas funções são as seguintes: </div>
+<div>Neste projeto, criamos um site utilizando dados de uma Api através dos métodos HTTP: get,post, put e delete. Suas funções são as seguintes: </div>
 <br><br>
 <div>
-    □GET - Página para listar os
-    cadastros ou produtos com
-    opção de busca;
+    □GET - Requisito para trazer os dados da Api para os componentes;
     <p></p>
-    □ POST - Página para incluir um
-    novo registro ou produto;
+    □ POST - Requisito que adiciona novos dados ao servidor;
     <p></p>
-    □ PUT - Página para editar os
-    cadastros ou produtos;
+    □ PUT - Requisito de edição dos dados já existentes;
     <p></p>
-    □ DELETE - Opção de excluir itens
-    cadastrados.</div>
+    □ DELETE - Exclui objetos do servidor através do "Id".</div>
     <br><br>
-    <div>Utilizamos como requisito a instalação do react-router-dom e tambem utilizamos o axios</div>
+    <div>Foram instaladas no projeto as bibliotecas react-router-dom e axios.</div>
     <br><br>
-    <div>Com essas informações foi criado um site de aparelhos eletronicos ,nele é importado pelo get a api pre criada anteriormente,
-        <p></p>através da função post é possivel adicionar novos produtos ao site assim como deletar com o metodo delete e 
-        <p></p>editar com o metodo put. 
+    <div>
+    <p>Com essas informações foram criadas as rotas que trazem produtos de informática: Smartphones, Notebooks e Periféricos.</p>
+    <div>imagem</div>
+    <p>O botão "Novo Produto" leva a uma rota de formulário para inclusão de dados no servidor</p>
+    <div>imagem</div>
+    <p>Ao clicar na rota referente a uma categoria de produtos são exibidas informações e os botões que executam as funções Editar e Excluir produtos.</p>
+    <div>imagem</div>
     <br><br><br> 
 </div>
