@@ -35,7 +35,6 @@
   <img src="./src/images/notebooks.png" width="850" title="hover text">
         </p>
     </div>
-    <p>Conteudo de referência e produção do projeto: https://www.youtube.com/watch?v=NbhoeLj6lBs&t=1766s</p>
-    
+    <p>Conteudo de referência e produção do projeto: https://www.youtube.com/watch?v=NbhoeLj6lBs&t=1766s</p>    
     <br><br><br> 
 </div>
